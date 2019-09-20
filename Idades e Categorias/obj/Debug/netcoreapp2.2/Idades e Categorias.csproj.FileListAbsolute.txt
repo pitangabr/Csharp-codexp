@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\bin\Debug\netcoreapp2.2\Idades e Categorias.deps.json
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\bin\Debug\netcoreapp2.2\Idades e Categorias.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\bin\Debug\netcoreapp2.2\Idades e Categorias.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\bin\Debug\netcoreapp2.2\Idades e Categorias.dll
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\bin\Debug\netcoreapp2.2\Idades e Categorias.pdb
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\obj\Debug\netcoreapp2.2\Idades e Categorias.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\obj\Debug\netcoreapp2.2\Idades e Categorias.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\obj\Debug\netcoreapp2.2\Idades e Categorias.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\obj\Debug\netcoreapp2.2\Idades e Categorias.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\obj\Debug\netcoreapp2.2\Idades e Categorias.dll
+C:\Users\fic\Desktop\Csharp\Idades e Categorias\obj\Debug\netcoreapp2.2\Idades e Categorias.pdb

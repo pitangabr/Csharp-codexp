@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Receba mensagem\bin\Debug\netcoreapp2.2\Receba mensagem.deps.json
+C:\Users\fic\Desktop\Csharp\Receba mensagem\bin\Debug\netcoreapp2.2\Receba mensagem.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Receba mensagem\bin\Debug\netcoreapp2.2\Receba mensagem.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Receba mensagem\bin\Debug\netcoreapp2.2\Receba mensagem.dll
+C:\Users\fic\Desktop\Csharp\Receba mensagem\bin\Debug\netcoreapp2.2\Receba mensagem.pdb
+C:\Users\fic\Desktop\Csharp\Receba mensagem\obj\Debug\netcoreapp2.2\Receba mensagem.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Receba mensagem\obj\Debug\netcoreapp2.2\Receba mensagem.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Receba mensagem\obj\Debug\netcoreapp2.2\Receba mensagem.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Receba mensagem\obj\Debug\netcoreapp2.2\Receba mensagem.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Receba mensagem\obj\Debug\netcoreapp2.2\Receba mensagem.dll
+C:\Users\fic\Desktop\Csharp\Receba mensagem\obj\Debug\netcoreapp2.2\Receba mensagem.pdb

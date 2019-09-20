@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Exercio 07\bin\Debug\netcoreapp2.2\Exercio 07.deps.json
+C:\Users\fic\Desktop\Csharp\Exercio 07\bin\Debug\netcoreapp2.2\Exercio 07.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Exercio 07\bin\Debug\netcoreapp2.2\Exercio 07.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Exercio 07\bin\Debug\netcoreapp2.2\Exercio 07.dll
+C:\Users\fic\Desktop\Csharp\Exercio 07\bin\Debug\netcoreapp2.2\Exercio 07.pdb
+C:\Users\fic\Desktop\Csharp\Exercio 07\obj\Debug\netcoreapp2.2\Exercio 07.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Exercio 07\obj\Debug\netcoreapp2.2\Exercio 07.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Exercio 07\obj\Debug\netcoreapp2.2\Exercio 07.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Exercio 07\obj\Debug\netcoreapp2.2\Exercio 07.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Exercio 07\obj\Debug\netcoreapp2.2\Exercio 07.dll
+C:\Users\fic\Desktop\Csharp\Exercio 07\obj\Debug\netcoreapp2.2\Exercio 07.pdb

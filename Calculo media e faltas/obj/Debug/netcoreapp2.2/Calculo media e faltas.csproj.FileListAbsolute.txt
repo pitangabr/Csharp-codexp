@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\bin\Debug\netcoreapp2.2\Calculo media e faltas.deps.json
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\bin\Debug\netcoreapp2.2\Calculo media e faltas.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\bin\Debug\netcoreapp2.2\Calculo media e faltas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\bin\Debug\netcoreapp2.2\Calculo media e faltas.dll
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\bin\Debug\netcoreapp2.2\Calculo media e faltas.pdb
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\obj\Debug\netcoreapp2.2\Calculo media e faltas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\obj\Debug\netcoreapp2.2\Calculo media e faltas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\obj\Debug\netcoreapp2.2\Calculo media e faltas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\obj\Debug\netcoreapp2.2\Calculo media e faltas.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\obj\Debug\netcoreapp2.2\Calculo media e faltas.dll
+C:\Users\fic\Desktop\Csharp\Calculo media e faltas\obj\Debug\netcoreapp2.2\Calculo media e faltas.pdb
